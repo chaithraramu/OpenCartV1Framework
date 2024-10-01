@@ -1,0 +1,136 @@
+2024-10-01 00:09:41 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\chira\eclipse-workspace\OpenCartV1Framework\master.xml"
+2024-10-01 00:09:42 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\chira\eclipse-workspace\OpenCartV1Framework\master.xml
+
+2024-10-01 00:09:46 INFO  TC001_AccountRegistrartionTest:19 - ****Starting TC001_AccountRegistrartionTest****
+2024-10-01 00:10:18 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\chira\eclipse-workspace\OpenCartV1Framework\master.xml"
+2024-10-01 00:10:18 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\chira\eclipse-workspace\OpenCartV1Framework\master.xml
+
+2024-10-01 00:11:06 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\chira\eclipse-workspace\OpenCartV1Framework\master.xml"
+2024-10-01 00:11:06 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\chira\eclipse-workspace\OpenCartV1Framework\master.xml
+
+2024-10-01 00:11:50 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\chira\eclipse-workspace\OpenCartV1Framework\master.xml"
+2024-10-01 00:11:50 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\chira\eclipse-workspace\OpenCartV1Framework\master.xml
+
+2024-10-01 00:12:02 INFO  TC002_AccountLoginTest:19 - **********Home Page*******
+2024-10-01 00:12:02 INFO  TC002_AccountLoginTest:24 - Clicked on My Account
+2024-10-01 00:12:03 INFO  TC002_AccountLoginTest:27 - Clicked on Login
+2024-10-01 00:12:03 INFO  TC002_AccountLoginTest:29 - **********Starting Login Page*******
+2024-10-01 00:12:03 INFO  TC002_AccountLoginTest:32 - Providing Login Details
+2024-10-01 00:12:04 INFO  TC002_AccountLoginTest:37 - Validating MyAccount Page
+2024-10-01 00:12:04 INFO  TC002_AccountLoginTest:42 - **********Finished ******
+2024-10-01 00:14:00 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\chira\eclipse-workspace\OpenCartV1Framework\master.xml"
+2024-10-01 00:14:00 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\chira\eclipse-workspace\OpenCartV1Framework\master.xml
+
+2024-10-01 00:14:05 INFO  TC001_AccountRegistrartionTest:19 - ****Starting TC001_AccountRegistrartionTest****
+2024-10-01 00:14:05 INFO  TC001_AccountRegistrartionTest:22 - clicked on MyAccount
+2024-10-01 00:14:06 INFO  TC001_AccountRegistrartionTest:24 - clicked on Registration
+2024-10-01 00:14:06 INFO  TC001_AccountRegistrartionTest:28 - Providing customer details
+2024-10-01 00:14:08 INFO  TC001_AccountRegistrartionTest:40 - Validating error message
+2024-10-01 00:14:08 INFO  TC001_AccountRegistrartionTest:58 - ****Finished TC001_AccountRegistrartionTest****
+2024-10-01 00:14:12 INFO  TC002_AccountLoginTest:19 - **********Home Page*******
+2024-10-01 00:14:12 INFO  TC002_AccountLoginTest:24 - Clicked on My Account
+2024-10-01 00:14:13 INFO  TC002_AccountLoginTest:27 - Clicked on Login
+2024-10-01 00:14:13 INFO  TC002_AccountLoginTest:29 - **********Starting Login Page*******
+2024-10-01 00:14:13 INFO  TC002_AccountLoginTest:32 - Providing Login Details
+2024-10-01 13:57:45 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\chira\eclipse-workspace\OpenCartV1Framework\master.xml"
+2024-10-01 13:57:46 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\chira\eclipse-workspace\OpenCartV1Framework\master.xml
+
+2024-10-01 13:57:52 INFO  TC001_AccountRegistrartionTest:19 - ****Starting TC001_AccountRegistrartionTest****
+2024-10-01 13:57:52 INFO  TC001_AccountRegistrartionTest:22 - clicked on MyAccount
+2024-10-01 13:57:53 INFO  TC001_AccountRegistrartionTest:24 - clicked on Registration
+2024-10-01 13:57:53 INFO  TC001_AccountRegistrartionTest:28 - Providing customer details
+2024-10-01 13:57:55 INFO  TC001_AccountRegistrartionTest:40 - Validating error message
+2024-10-01 13:57:55 INFO  TC001_AccountRegistrartionTest:58 - ****Finished TC001_AccountRegistrartionTest****
+2024-10-01 13:58:00 INFO  TC002_AccountLoginTest:19 - **********Home Page*******
+2024-10-01 13:58:00 INFO  TC002_AccountLoginTest:24 - Clicked on My Account
+2024-10-01 13:58:01 INFO  TC002_AccountLoginTest:27 - Clicked on Login
+2024-10-01 13:58:01 INFO  TC002_AccountLoginTest:29 - **********Starting Login Page*******
+2024-10-01 13:58:01 INFO  TC002_AccountLoginTest:32 - Providing Login Details
+2024-10-01 13:58:02 INFO  TC002_AccountLoginTest:37 - Validating MyAccount Page
+2024-10-01 13:58:02 INFO  TC002_AccountLoginTest:42 - **********Finished ******
+2024-10-01 13:58:46 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\chira\eclipse-workspace\OpenCartV1Framework\master.xml"
+2024-10-01 13:58:46 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\chira\eclipse-workspace\OpenCartV1Framework\master.xml
+
+2024-10-01 13:58:52 INFO  TC001_AccountRegistrartionTest:19 - ****Starting TC001_AccountRegistrartionTest****
+2024-10-01 13:58:53 INFO  TC001_AccountRegistrartionTest:22 - clicked on MyAccount
+2024-10-01 13:58:53 INFO  TC001_AccountRegistrartionTest:24 - clicked on Registration
+2024-10-01 13:58:53 INFO  TC001_AccountRegistrartionTest:28 - Providing customer details
+2024-10-01 13:58:55 INFO  TC001_AccountRegistrartionTest:40 - Validating error message
+2024-10-01 13:58:55 INFO  TC001_AccountRegistrartionTest:58 - ****Finished TC001_AccountRegistrartionTest****
+2024-10-01 13:59:00 INFO  TC002_AccountLoginTest:19 - **********Home Page*******
+2024-10-01 13:59:00 INFO  TC002_AccountLoginTest:24 - Clicked on My Account
+2024-10-01 13:59:00 INFO  TC002_AccountLoginTest:27 - Clicked on Login
+2024-10-01 13:59:00 INFO  TC002_AccountLoginTest:29 - **********Starting Login Page*******
+2024-10-01 13:59:00 INFO  TC002_AccountLoginTest:32 - Providing Login Details
+2024-10-01 13:59:01 INFO  TC002_AccountLoginTest:37 - Validating MyAccount Page
+2024-10-01 13:59:01 INFO  TC002_AccountLoginTest:42 - **********Finished ******
+2024-10-01 14:00:19 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\chira\eclipse-workspace\OpenCartV1Framework\master.xml"
+2024-10-01 14:00:20 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\chira\eclipse-workspace\OpenCartV1Framework\master.xml
+
+2024-10-01 14:00:26 INFO  TC001_AccountRegistrartionTest:19 - ****Starting TC001_AccountRegistrartionTest****
+2024-10-01 14:00:27 INFO  TC001_AccountRegistrartionTest:22 - clicked on MyAccount
+2024-10-01 14:00:27 INFO  TC001_AccountRegistrartionTest:24 - clicked on Registration
+2024-10-01 14:00:27 INFO  TC001_AccountRegistrartionTest:28 - Providing customer details
+2024-10-01 14:00:30 INFO  TC001_AccountRegistrartionTest:40 - Validating error message
+2024-10-01 14:00:31 INFO  TC001_AccountRegistrartionTest:58 - ****Finished TC001_AccountRegistrartionTest****
+2024-10-01 14:00:35 INFO  TC002_AccountLoginTest:19 - **********Home Page*******
+2024-10-01 14:00:36 INFO  TC002_AccountLoginTest:24 - Clicked on My Account
+2024-10-01 14:00:36 INFO  TC002_AccountLoginTest:27 - Clicked on Login
+2024-10-01 14:00:36 INFO  TC002_AccountLoginTest:29 - **********Starting Login Page*******
+2024-10-01 14:00:36 INFO  TC002_AccountLoginTest:32 - Providing Login Details
+2024-10-01 14:00:38 INFO  TC002_AccountLoginTest:37 - Validating MyAccount Page
+2024-10-01 14:00:38 INFO  TC002_AccountLoginTest:42 - **********Finished ******
+2024-10-01 14:20:53 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\chira\eclipse-workspace\OpenCartV1Framework\master.xml"
+2024-10-01 14:20:53 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\chira\eclipse-workspace\OpenCartV1Framework\master.xml
+
+2024-10-01 14:20:58 INFO  TC001_AccountRegistrartionTest:19 - ****Starting TC001_AccountRegistrartionTest****
+2024-10-01 14:20:58 INFO  TC001_AccountRegistrartionTest:22 - clicked on MyAccount
+2024-10-01 14:20:59 INFO  TC001_AccountRegistrartionTest:24 - clicked on Registration
+2024-10-01 14:20:59 INFO  TC001_AccountRegistrartionTest:28 - Providing customer details
+2024-10-01 14:21:00 INFO  TC001_AccountRegistrartionTest:40 - Validating error message
+2024-10-01 14:21:00 INFO  TC001_AccountRegistrartionTest:58 - ****Finished TC001_AccountRegistrartionTest****
+2024-10-01 14:21:05 INFO  TC002_AccountLoginTest:19 - **********Home Page*******
+2024-10-01 14:21:05 INFO  TC002_AccountLoginTest:24 - Clicked on My Account
+2024-10-01 14:21:06 INFO  TC002_AccountLoginTest:27 - Clicked on Login
+2024-10-01 14:21:06 INFO  TC002_AccountLoginTest:29 - **********Starting Login Page*******
+2024-10-01 14:21:06 INFO  TC002_AccountLoginTest:32 - Providing Login Details
+2024-10-01 14:21:07 INFO  TC002_AccountLoginTest:37 - Validating MyAccount Page
+2024-10-01 14:21:07 INFO  TC002_AccountLoginTest:42 - **********Finished ******
+2024-10-01 20:03:22 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\chira\eclipse-workspace\OpenCartV1Framework\master.xml"
+2024-10-01 20:03:29 INFO  TC001_AccountRegistrartionTest:19 - ****Starting TC001_AccountRegistrartionTest****
+2024-10-01 20:03:29 INFO  TC001_AccountRegistrartionTest:22 - clicked on MyAccount
+2024-10-01 20:03:30 INFO  TC001_AccountRegistrartionTest:24 - clicked on Registration
+2024-10-01 20:03:30 INFO  TC001_AccountRegistrartionTest:28 - Providing customer details
+2024-10-01 20:03:31 INFO  TC001_AccountRegistrartionTest:40 - Validating error message
+2024-10-01 20:03:31 INFO  TC001_AccountRegistrartionTest:58 - ****Finished TC001_AccountRegistrartionTest****
+2024-10-01 20:03:36 INFO  TC002_AccountLoginTest:19 - **********Home Page*******
+2024-10-01 20:03:36 INFO  TC002_AccountLoginTest:24 - Clicked on My Account
+2024-10-01 20:03:37 INFO  TC002_AccountLoginTest:27 - Clicked on Login
+2024-10-01 20:03:37 INFO  TC002_AccountLoginTest:29 - **********Starting Login Page*******
+2024-10-01 20:03:37 INFO  TC002_AccountLoginTest:32 - Providing Login Details
+2024-10-01 20:03:38 INFO  TC002_AccountLoginTest:37 - Validating MyAccount Page
+2024-10-01 20:03:38 INFO  TC002_AccountLoginTest:42 - **********Finished ******
+2024-10-01 20:20:19 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\chira\eclipse-workspace\OpenCartV1Framework\master.xml"
+2024-10-01 20:21:29 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\chira\eclipse-workspace\OpenCartV1Framework\master.xml"
+2024-10-01 20:21:34 INFO  TC001_AccountRegistrartionTest:19 - ****Starting TC001_AccountRegistrartionTest****
+2024-10-01 20:21:34 INFO  TC001_AccountRegistrartionTest:22 - clicked on MyAccount
+2024-10-01 20:21:34 INFO  TC001_AccountRegistrartionTest:24 - clicked on Registration
+2024-10-01 20:21:34 INFO  TC001_AccountRegistrartionTest:28 - Providing customer details
+2024-10-01 20:21:36 INFO  TC001_AccountRegistrartionTest:40 - Validating error message
+2024-10-01 20:21:36 INFO  TC001_AccountRegistrartionTest:58 - ****Finished TC001_AccountRegistrartionTest****
+2024-10-01 20:21:40 INFO  TC002_AccountLoginTest:19 - **********Home Page*******
+2024-10-01 20:21:40 INFO  TC002_AccountLoginTest:24 - Clicked on My Account
+2024-10-01 20:21:40 INFO  TC002_AccountLoginTest:27 - Clicked on Login
+2024-10-01 20:21:40 INFO  TC002_AccountLoginTest:29 - **********Starting Login Page*******
+2024-10-01 20:21:40 INFO  TC002_AccountLoginTest:32 - Providing Login Details
+2024-10-01 20:21:41 INFO  TC002_AccountLoginTest:37 - Validating MyAccount Page
+2024-10-01 20:21:41 INFO  TC002_AccountLoginTest:42 - **********Finished ******

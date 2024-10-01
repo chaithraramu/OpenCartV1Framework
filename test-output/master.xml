@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Master Suite">
+<listeners>
+	<listener class-name="utilities.ExtentReportManager"></listener>
+</listeners>
+  <test thread-count="5" name="master">
+	  <parameter name="os" value="Windows"></parameter>
+	  <parameter name="browser" value="chrome"></parameter>
+    <classes>
+      <class name="testtPage.TC001_AccountRegistrartionTest"/> 
+     <class name="testtPage.TC002_AccountLoginTest"/>
+      <!--<class name="testtPage.TC003_DataDrivenAccountLoginTest"/>-->
+    </classes>
+  </test> <!-- master -->
+</suite> <!-- Suite -->

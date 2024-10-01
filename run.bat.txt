@@ -1,0 +1,2 @@
+cd C:\Users\chira\eclipse-workspace\OpenCartV1Framework
+mvn test
